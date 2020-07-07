@@ -1,7 +1,6 @@
 .container{
     margin-bottom: 40px;
 }
-
 .btn:hover{
     background-color: rgb(255, 173, 41);
 }
@@ -70,3 +69,4 @@
     border-radius: 10px;
     background-image: linear-gradient(90deg, rgb(80, 232, 252), rgb(125, 240, 49));
 }
+/* finished */
