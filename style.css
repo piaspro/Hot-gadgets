@@ -1,0 +1,11 @@
+.container{
+    margin-bottom: 10px;
+}
+.card{
+    border: none;
+    box-shadow: 2px 3px 10px lightgrey;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
